@@ -13,3 +13,7 @@ Este projeto é uma recriação da página inicial do site do Starbucks, com foc
 - **HTML** para a estrutura do conteúdo.
 - **CSS** para estilização e criação de uma experiência visual similar à do Starbucks.
 - **JavaScript** para interatividade ao trocar as imagens dos copos e o fundo de cor.
+
+## Este projeto
+
+- Para visualizar este projeto clique aqui https://renatastephanie.github.io/STARBUCKS/
