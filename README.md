@@ -16,4 +16,4 @@ Este projeto é uma recriação da página inicial do site do Starbucks, com foc
 
 ## Este projeto
 
-- Para visualizar este projeto clique aqui https://renatastephanie.github.io/STARBUCKS/
+- Para visualizar este projeto [clique aqui](https://projeto-starbucks-tau.vercel.app/)
